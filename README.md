@@ -1,4 +1,4 @@
-👋 Hello World, I'm Brytch! 
+<h1 align="center">👋 Hello World, I'm Brytch!  👋</h1>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/xbrytch)](https://github.com/xbrytch)
 
