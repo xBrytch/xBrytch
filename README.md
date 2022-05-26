@@ -7,9 +7,9 @@ i'm <b>Brytch</b> - Front end developer and i'm known as one of the most experie
 
 📫 You can also contact me on Discord: Brytch#5925
 
-<a href="https://github.com/xBrytch/github-readme-stats"> 
+<a href="https://github.com/xBrytch"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=xBrytch&count_private=true&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/xBrytch/github-readme-stats">
+<a href="https://github.com/xBrytch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xBrytch&theme=dracula" />
 </a>
