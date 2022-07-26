@@ -9,7 +9,8 @@
 
  "name": "Aroldo Miranda",
  "age": "20",
- "discord": "Brytch#5925"
+ "discord": "Brytch#5925",
+ "state": "Brazil"
 }
 ```
 
