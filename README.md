@@ -8,14 +8,14 @@
 {
 
  "name": "Aroldo Miranda",
- "age": "20",
- "state": "Brazil",
+ "age": "23",
+ "state": "Brazil, PE",
  "discord": "Brytch#5925"
 }
 ```
 
 ### 👨‍💻 Specifications
-```Front-end developer and I'm known in the area of ​​editing content for copying the Habbo game (Retros), I've been in this category since 2013, having participated in several forums, with several posts about content that interest the community.```
+```Just a Latin American boy who tries his hand at programming, his favorite hobby being front-end development, but he sometimes scribbles lines of code in the back-end if necessary.```
 
 <a href="https://github.com/xBrytch/github-stats/blob/master/generated/overview.svg">
   <img align="center" src="https://raw.githubusercontent.com/xBrytch/github-stats/master/generated/overview.svg" />
